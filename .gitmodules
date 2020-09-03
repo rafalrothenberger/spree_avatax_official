@@ -1,0 +1,3 @@
+[submodule "lib/spree_extension"]
+	path = lib/spree_extension
+	url = git@github.com:rafalrothenberger/spree_extension.git
